@@ -1,4 +1,4 @@
-Portfolio de Projetos de Ciência de Dados
+## Portfolio de Projetos de Ciência de Dados | PT
 
 Aqui você vai encontrar:
 
@@ -6,10 +6,19 @@ Aqui você vai encontrar:
 - Habilidades e ferramentas.
 - Experiências profissionais.
 - Projetos de Ciência de Dados.
-- Contatos
+- Contatos.
 
+## Data Science Project Portfolio | EN
 
-Credits:
+Here you will find:
+
+- About me.
+- Skills and Tools.
+- Professional Experiences.
+- Data Science Projects.
+- Contacts.
+
+## Credits:
 
 	Demo Images:
 		Unsplash (unsplash.com)
